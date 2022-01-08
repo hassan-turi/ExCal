@@ -4,7 +4,6 @@ import { createDrawerNavigator } from '@react-navigation/drawer';
 import { NavigationContainer } from '@react-navigation/native';
 import Login from './components/Login';
 import Signup from './components/Signup';
-import Menu from './components/Menu';
 import Dailyexp from './components/Dailyexp';
 import Elecbill from './components/Elecbill';
 import Rentalexp from './components/Rentalexp';
